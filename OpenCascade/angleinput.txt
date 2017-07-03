@@ -1,0 +1,8 @@
+5.000000
+1.000000
+45.000000
+Key:
+lineNo-variable
+1-radius
+2-height
+3-angle (degrees)

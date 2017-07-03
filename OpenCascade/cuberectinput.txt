@@ -1,0 +1,12 @@
+5.000000
+2.000000
+1.000000
+3.000000
+1.500000
+Key:
+lineNo-variable
+1-Xlength
+2-Ylength
+3-Height
+4-Electrode Xlength
+5-Electrode Ylength

@@ -1,0 +1,14 @@
+30.000000
+20.000000
+15.000000
+20.000000
+10.000000
+25.000000
+Key:
+lineNo-variable
+1-radius
+2-height
+3-inradtop
+4-outradtop
+5-inradbottom
+6-inradbottom

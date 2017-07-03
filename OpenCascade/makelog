@@ -1,0 +1,11 @@
+Reading /home/mbanovic/IODA/Development/DrawCommands/TUBerlinStator/Exercise.pro
+make -f Makefile.Exercise all
+make[1]: Entering directory '/home/mbanovic/IODA/Development/DrawCommands/TUBerlinStator'
+make -f Makefile.Exercise.Release all
+make[2]: Entering directory '/home/mbanovic/IODA/Development/DrawCommands/TUBerlinStator'
+g++ -Wl,-O1 -o Linux/bin/Exercise Linux/obj/DrawMain.o Linux/obj/MyCommands.o    -L/usr/lib64 -L/home/mbanovic/OpenCASCADE/6.9.1/occt-install/lin64/gcc/lib -L/usr/lib64 -L/usr/lib64/mpi/gcc/openmpi/lib64 -L/home/mbanovic/IODA/hdf5-gnu/lib64 -L/home/mbanovic/OpenCASCADE/6.9.1/occt-install/lin64 -L/usr/X11R6/lib -lXext -lX11 -lm -lGL -lTKBool -lTKBRep -lTKDraw -lTKernel -lTKFeat -lTKFillet -lTKG2d -lTKG3d -lTKGeomAlgo -lTKGeomBase -lTKMath -lTKOffset -lTKPrim -lTKTopAlgo -lTKTopTest -lTKShHealing -lTKSTEP -lTKBO -lTKXSBase -lQtGui -lQtCore -lpthread 
+Makefile.Exercise.Release:106: recipe for target 'Linux/bin/Exercise' failed
+make[2]: Leaving directory '/home/mbanovic/IODA/Development/DrawCommands/TUBerlinStator'
+Makefile.Exercise:40: recipe for target 'release-all' failed
+make[1]: Leaving directory '/home/mbanovic/IODA/Development/DrawCommands/TUBerlinStator'
+Makefile:41: recipe for target 'sub-Exercise-pro-all' failed
