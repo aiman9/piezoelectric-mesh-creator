@@ -44,10 +44,9 @@ For further description, read on:
     
     ii) Bash scripts: Each of the four scripts anglescript.sh, ringscript.sh etc, are bash scripts to automate the creation of the mesh file from scratch. They 'make' the project again, run the method to create the corresponding .stp file, and create an updated .msh file.
     
-
----------------------------------------------------------------------------------------------------------------------------------
+    
 Execution instructions:
-
+---------------------------------------------------------------------------------------------------------------------------------
 1) Change input parameters by executing respective input program in /Scripts
 2) Change mesh element size if required by executing ChangeElementSize in /Scripts
 3) Execute the bash script for the desired configuration from /Scripts. For example, execute ringscript.sh to create the triple ring electrode configuration.
