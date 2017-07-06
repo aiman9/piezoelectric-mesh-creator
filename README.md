@@ -9,7 +9,7 @@ Brief description of each:
 
 2) gmsh - contains the .geo files that create the gmsh version of the piezoelectric, after importing the required stp file. Also contains sample .msh files that have subsequently been created.
 
-3) Scripts - contains bash scripts to automate the creation and meshing of the piezoelectics, as well as C programs to change the input parameters
+3) Scripts - contains bash scripts to automate the creation and meshing of the piezoelectrics, as well as C programs to change the input parameters
 
 For further description, read on:
 ---------------------------------------------------------------------------------------------------------------------------------
